@@ -103,6 +103,10 @@ pip install paho-mqtt
 python3 scripts/esp32_mockup_SmartLamp.py
 ```
 
+### 7. Vídeo de Demonstração
+
+[Assistir no YouTube](https://youtu.be/pdYtPGcd9yc)
+
 ---
 
 ## Créditos
