@@ -3,7 +3,7 @@
 ## Montagem no Wokwi
 
 <p align="center">
-  <img src="./assets/image.png" alt="Montagem no Wokwi" width="800"/>
+  <img src="./assets/images.png" alt="Montagem no Wokwi" width="800"/>
 </p>
 
 ---
