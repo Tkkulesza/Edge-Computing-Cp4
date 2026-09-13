@@ -105,7 +105,7 @@ python3 scripts/esp32_mockup_SmartLamp.py
 
 ### 7. Vídeo de Demonstração
 
-[Assistir no YouTube](https://youtu.be/pdYtPGcd9yc)
+[Assistir no YouTube](https://youtu.be/RZqiEUg_LTQ?is=jbn5uCEOF0Fvxbaj)
 
 ---
 
